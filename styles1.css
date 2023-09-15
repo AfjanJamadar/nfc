@@ -1,0 +1,51 @@
+/* Add your CSS styles here to format the library's appearance */
+header {
+    background-color: #5a9df6;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.resource {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+}
+
+.resource a {
+    text-align: center;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+/* Add spacing between videos */
+.iframe-container {
+    margin-bottom: 20px; /* Adjust the margin as needed for spacing */
+    width: 50%; /* Make the iframes responsive to their container */
+    height: 315px; 
+  }
+  
+ 
+
+  .iframe1-container {
+    margin-bottom: 20px; /* Adjust the margin as needed for spacing */
+    width: 50%; /* Make the iframes responsive to their container */
+    height: 315px; 
+  }
+  
+  #imp{
+      text-align: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+  }
+ 
+  #imp p{
+    text-decoration: underline;
+  }
+  
+  
